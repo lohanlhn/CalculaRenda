@@ -13,7 +13,7 @@ Este é um projeto simples em C# que calcula a renda de um funcionário com base
 1. Clone este repositório em seu ambiente de desenvolvimento:
 
    ```
-   git clone https://github.com/seu-usuario/calculadora-renda-funcionario.git
+   git clone https://github.com/lohanlhn/CalculaRenda.git
    ```
 
 2. Abra o projeto em sua IDE preferida (por exemplo, o Visual Studio).
